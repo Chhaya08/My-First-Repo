@@ -6,3 +6,7 @@ I love India
 k3op;l;ljkjgh
 rffgybfvntfv
 I create new branch
+Conflict line 1
+Conflict line 2
+Conflict line 3
+Conflict line 4
